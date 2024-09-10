@@ -1,0 +1,389 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Helwan",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Ain Helwan",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Helwan University",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Wadi Hof",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 4
+  },
+  {
+    "Id": 5,
+    "Name": "Hadayek Helwan",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 5
+  },
+  {
+    "Id": 6,
+    "Name": "El Maasara",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 6
+  },
+  {
+    "Id": 7,
+    "Name": "Tora El Asmant",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 7
+  },
+  {
+    "Id": 8,
+    "Name": "Kozzika",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 8
+  },
+  {
+    "Id": 9,
+    "Name": "Tora El Balad",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 9
+  },
+  {
+    "Id": 10,
+    "Name": "Sakanat El Maadi",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 10
+  },
+  {
+    "Id": 11,
+    "Name": "Maadi",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 11
+  },
+  {
+    "Id": 12,
+    "Name": "Hadayek El Maadi",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 12
+  },
+  {
+    "Id": 13,
+    "Name": "Dar El Salam",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 13
+  },
+  {
+    "Id": 14,
+    "Name": "El Zahraa",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 14
+  },
+  {
+    "Id": 15,
+    "Name": "Mar Girgis",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 15
+  },
+  {
+    "Id": 16,
+    "Name": "El Malek El Saleh",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 16
+  },
+  {
+    "Id": 17,
+    "Name": "Al Sayeda Zeinab",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 17
+  },
+  {
+    "Id": 18,
+    "Name": "Saad Zaghloul",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 18
+  },
+  {
+    "Id": 19,
+    "Name": "Sadat",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 19
+  },
+  {
+    "Id": 20,
+    "Name": "Nasser",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 20
+  },
+  {
+    "Id": 21,
+    "Name": "Orabi",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 21
+  },
+  {
+    "Id": 22,
+    "Name": "Al Shohadaa",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 22
+  },
+  {
+    "Id": 23,
+    "Name": "Ghamra",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 23
+  },
+  {
+    "Id": 24,
+    "Name": "El Demerdash",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 24
+  },
+  {
+    "Id": 25,
+    "Name": "Manshiet El Sadr",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 25
+  },
+  {
+    "Id": 26,
+    "Name": "Kobri El Qobba",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 26
+  },
+  {
+    "Id": 27,
+    "Name": "Hammamat El Qobba",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 27
+  },
+  {
+    "Id": 28,
+    "Name": "Saray El Qobba",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 28
+  },
+  {
+    "Id": 29,
+    "Name": "Hadayeq El Zaitoun",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 29
+  },
+  {
+    "Id": 30,
+    "Name": "Helmeyet El Zaitoun",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 30
+  },
+  {
+    "Id": 31,
+    "Name": "El Matareyya",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 31
+  },
+  {
+    "Id": 32,
+    "Name": "Ain Shams",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 32
+  },
+  {
+    "Id": 33,
+    "Name": "Ezbet El Nakhl",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 33
+  },
+  {
+    "Id": 34,
+    "Name": "El Marg",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 34
+  },
+  {
+    "Id": 35,
+    "Name": "New El Marg",
+    "HasTransition": false,
+    "LineId": 1,
+    "Postion": 35
+  },
+  {
+    "Id": 36,
+    "Name": "Shubra Al Khaimah",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 1
+  },
+  {
+    "Id": 37,
+    "Name": "Koliet El-Zeraa",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 2
+  },
+  {
+    "Id": 38,
+    "Name": "Mezallat",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 3
+  },
+  {
+    "Id": 39,
+    "Name": "Khalafawy",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 4
+  },
+  {
+    "Id": 40,
+    "Name": "St. Teresa",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 5
+  },
+  {
+    "Id": 41,
+    "Name": "Rod El-Farag",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 6
+  },
+  {
+    "Id": 42,
+    "Name": "Masarra",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 7
+  },
+  {
+    "Id": 43,
+    "Name": "Al Shohadaa",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 8
+  },
+  {
+    "Id": 44,
+    "Name": "Attaba",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 9
+  },
+  {
+    "Id": 45,
+    "Name": "Mohamed Naguib",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 10
+  },
+    {
+    "Id": 46,
+    "Name": "Sadat",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 11
+  },
+  {
+    "Id": 47,
+    "Name": "Opera",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 12
+  },
+  {
+    "Id": 48,
+    "Name": "Dokki",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 13
+  },
+  {
+    "Id": 49,
+    "Name": "El Bohoth",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 14
+  },
+  {
+    "Id": 50,
+    "Name": "Cairo University",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 15
+  },
+  {
+    "Id": 51,
+    "Name": "Faisal",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 16
+  },
+  {
+    "Id": 52,
+    "Name": "Giza",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 17
+  },
+  {
+    "Id": 53,
+    "Name": "Omm El-Masryeen",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 18
+  },
+  {
+    "Id": 54,
+    "Name": "Sakiat Mekky",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 19
+  },
+  {
+    "Id": 55,
+    "Name": "El Monib",
+    "HasTransition": false,
+    "LineId": 2,
+    "Postion": 20
+  }
+]
+
+   
